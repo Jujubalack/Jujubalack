@@ -11,7 +11,7 @@
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Jujubalack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
-   < img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30" widght="40">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30" widght="40">
             
 </div>
  <br><br>
