@@ -1,8 +1,12 @@
 ## Olá Pessoal! Julia Lack aqui!👋
 
 -⭐Gosto de tocar guitarra, montar cubo mágico e ir para igreja
+
 -📚As mil partes do meu coração
+
 -🧠amo programar e qualquer coisa que envolva lógica
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jujubalack&theme=radical&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Jujubalack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
